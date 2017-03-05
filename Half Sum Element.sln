@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Half Sum Element", "Half Sum Element\Half Sum Element.csproj", "{DF65D5B0-8023-41AD-8229-0AB6D034AF2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd and Even Position", "Odd and Even Position\Odd and Even Position.csproj", "{713332CE-6335-46A6-B396-C6D3039FEA91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vowels Sum", "Vowels Sum\Vowels Sum.csproj", "{359804BE-A8E3-49A6-A98D-993233963B7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF65D5B0-8023-41AD-8229-0AB6D034AF2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF65D5B0-8023-41AD-8229-0AB6D034AF2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF65D5B0-8023-41AD-8229-0AB6D034AF2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF65D5B0-8023-41AD-8229-0AB6D034AF2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{713332CE-6335-46A6-B396-C6D3039FEA91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713332CE-6335-46A6-B396-C6D3039FEA91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713332CE-6335-46A6-B396-C6D3039FEA91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713332CE-6335-46A6-B396-C6D3039FEA91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{359804BE-A8E3-49A6-A98D-993233963B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359804BE-A8E3-49A6-A98D-993233963B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359804BE-A8E3-49A6-A98D-993233963B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359804BE-A8E3-49A6-A98D-993233963B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

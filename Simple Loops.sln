@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Left and Right Sum", "Simple Loops\Left and Right Sum.csproj", "{9351AE2C-E017-46B1-A07B-0F519F57A15E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd Even Sum", "Odd Even Sum\Odd Even Sum.csproj", "{38498410-A2CE-4B35-A216-DCEAFCB9C0B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vowels Sum", "Vowels Sum\Vowels Sum.csproj", "{C3A4C3F1-C9AC-4CE5-BE8B-25EC34980819}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9351AE2C-E017-46B1-A07B-0F519F57A15E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9351AE2C-E017-46B1-A07B-0F519F57A15E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9351AE2C-E017-46B1-A07B-0F519F57A15E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9351AE2C-E017-46B1-A07B-0F519F57A15E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38498410-A2CE-4B35-A216-DCEAFCB9C0B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38498410-A2CE-4B35-A216-DCEAFCB9C0B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38498410-A2CE-4B35-A216-DCEAFCB9C0B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38498410-A2CE-4B35-A216-DCEAFCB9C0B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A4C3F1-C9AC-4CE5-BE8B-25EC34980819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A4C3F1-C9AC-4CE5-BE8B-25EC34980819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A4C3F1-C9AC-4CE5-BE8B-25EC34980819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A4C3F1-C9AC-4CE5-BE8B-25EC34980819}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
